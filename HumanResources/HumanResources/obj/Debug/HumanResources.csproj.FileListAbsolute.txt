@@ -1,0 +1,21 @@
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\obj\Debug\HumanResources.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\bin\Debug\HumanResources.exe
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\bin\Debug\HumanResources.pdb
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\bin\Debug\HumanResources.exe
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\bin\Debug\HumanResources.pdb
+C:\Users\Daniel\Downloads\HumanResources\HumanResources\HumanResources\obj\Debug\HumanResources.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\bin\Debug\HumanResources.exe
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\bin\Debug\HumanResources.pdb
+C:\Users\Daniel\Desktop\OOP Project\Company Practicum\HumanResources2.0\HumanResources\HumanResources\obj\Debug\HumanResources.csprojResolveAssemblyReference.cache
+D:\Downloads\practicum project\HumanResources\HumanResources\bin\Debug\HumanResources.exe.config
+D:\Downloads\practicum project\HumanResources\HumanResources\obj\Debug\HumanResources.exe
+D:\Downloads\practicum project\HumanResources\HumanResources\obj\Debug\HumanResources.pdb
